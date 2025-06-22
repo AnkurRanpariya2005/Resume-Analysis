@@ -76,7 +76,7 @@ http://localhost:3000
  - Improve resume based on suggestions.
 
 📸 Demo Video
-<video src="https://github.com/AnkurRanpariya2005/Resume-Analysis/tree/master/Demo/demo.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/AnkurRanpariya2005/Resume-Analysis/refs/heads/master/Demo/demo.mp4" controls width="100%"></video>
 
 🤝 Contributing
 Contributions are welcome!
