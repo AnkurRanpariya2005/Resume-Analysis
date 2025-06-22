@@ -16,7 +16,7 @@ AI-powered web app that analyzes resumes to extract structured data, evaluate st
 
 ## 🖼️ Demo
 
-> _Live demo coming soon!_
+https://github.com/user-attachments/assets/a0d8af15-fa1a-4ee0-a7a0-77e94fc57faa
 
 ---
 
@@ -74,9 +74,6 @@ http://localhost:3000
  - ATS score
  - Pros and Cons
  - Improve resume based on suggestions.
-
-## 📸 Demo Video
-<video src="https://raw.githubusercontent.com/AnkurRanpariya2005/Resume-Analysis/master/Demo/demo.mp4" controls width="100%"></video>
 
 
 🤝 Contributing
