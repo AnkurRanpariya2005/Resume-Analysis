@@ -75,8 +75,9 @@ http://localhost:3000
  - Pros and Cons
  - Improve resume based on suggestions.
 
-📸 Demo Video
-<video src="https://raw.githubusercontent.com/AnkurRanpariya2005/Resume-Analysis/refs/heads/master/Demo/demo.mp4" controls width="100%"></video>
+## 📸 Demo Video
+<video src="https://raw.githubusercontent.com/AnkurRanpariya2005/Resume-Analysis/master/Demo/demo.mp4" controls width="100%"></video>
+
 
 🤝 Contributing
 Contributions are welcome!
