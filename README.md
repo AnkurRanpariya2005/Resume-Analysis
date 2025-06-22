@@ -15,8 +15,7 @@ AI-powered web app that analyzes resumes to extract structured data, evaluate st
 ---
 
 ## 🖼️ Demo
-
-https://github.com/user-attachments/assets/a0d8af15-fa1a-4ee0-a7a0-77e94fc57faa
+https://github.com/user-attachments/assets/7c03a635-3ade-4f31-9492-83245db19ba2
 
 ---
 
